@@ -1,4 +1,4 @@
-# Pose Recognition (Group-24, CS4)
+# Pose Recognition 
 
 ## Overview
 This project implements a pose recognition system using computer vision techniques. It leverages OpenCV and MediaPipe to detect and annotate human poses in images, videos, and live webcam feeds. The project is designed for educational and demonstration purposes, as part of a Computer Science curriculum.
